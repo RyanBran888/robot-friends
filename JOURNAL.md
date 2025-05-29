@@ -4,6 +4,9 @@ author: "Ryan Brandt"
 description: "Its a friend and its also a robot"
 created_at: "2025-05-29"
 ---
-i made my first fusion design for the guy
+# 5/29/2025
+  i made my first fusion design for the goober
 
-![image](https://github.com/user-attachments/assets/2452b5fe-aab3-4882-9c34-ad555811fd4d)
+![image](https://github.com/user-attachments/assets/ad031202-d8a5-42d4-9e48-c61a10720b22)
+
+its supposed to be wheels in those hoels and then a camera in the head area and then servos on the arm things and then a pico or something in the middle
