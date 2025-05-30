@@ -10,7 +10,7 @@ created_at: "2025-05-29"
 
 ![image](https://github.com/user-attachments/assets/ad031202-d8a5-42d4-9e48-c61a10720b22)
 
-its supposed to be wheels in those hoels and then a camera in the head area and then servos on the arm things and then a pico or something in the middle
+its supposed to be wheels in those holes and then a camera in the head area and then servos on the arm things and then a pico or something in the middle
 
 # 5/30/2025
 i made the code for the project i will make it work when i get the project
