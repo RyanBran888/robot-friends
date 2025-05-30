@@ -1,5 +1,5 @@
 # why project
-i like robots and iw anted one to be a friend!
+i like robots and i wanted one to be a friend!
 # what does it do?
 it follows you around and waves and answers questions and stuff
 # how it fits together
