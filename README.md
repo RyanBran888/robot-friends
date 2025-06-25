@@ -2,7 +2,8 @@
 i like robots and iw anted one to be a friend!
 # what does it do?
 it follows you around and waves and answers questions and stuff
-# how it fits together
+in detail tho!! it has 4 modes off in which it is off and does nothing then on it will spin in a circle then there id follow mode where it will follow you around and lastly question mode were it will answer any questions you ask it and wave  
+# how it fits to
 the code programs the parts which are attatched to the cad
 
 ![image](https://github.com/user-attachments/assets/2e0b020f-1bee-4e70-b134-81786d7b0333)
